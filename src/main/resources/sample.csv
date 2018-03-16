@@ -1,0 +1,8 @@
+col1,col2
+val1,val2
+test1,test2
+"space val",spaceVal
+"val,comma",commaVal
+"line end
+inside field",lineEndInsideField
+"łóżńźćś",Polish
